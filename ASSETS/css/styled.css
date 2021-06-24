@@ -42,4 +42,7 @@
   .nav__menu{
       background-color: #000;
   }
+  .skills__data{
+    box-shadow: 0 4px 25px rgba(190, 193, 196, 0.15);
+  }
 }
