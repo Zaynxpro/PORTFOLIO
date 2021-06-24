@@ -1,0 +1,32 @@
+@media(prefers-color-scheme: dark){
+    body{
+
+        color: white;
+        background-color: black;
+      }
+      .l-header{
+        background-color: black;
+        box-shadow: 0 1px 4px rgb(255, 255, 255);
+      }
+      .nav__logo {
+        color: #FFF;
+    }
+    .nav__link {
+        color: #FFF;
+    }
+    .home__social-icon {
+        font-size: 1.5rem;
+        color: #FFF;
+    }
+    .moon{
+        color: #fff;
+    }
+    .work__img {
+        box-shadow: 0 4px 25px rgba(255, 255, 255, 0.15);
+        border-radius: 4.5rem;
+        overflow: hidden;
+    }
+    .footer {
+        background-color: #000;
+    }
+}
