@@ -136,7 +136,7 @@ img{
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    background-color: #4070F4;
     transition: .5s;
   }
 }
@@ -163,10 +163,11 @@ img{
   color: var(--second-color);
 }
 .nav__toggle{
-  color: var(--second-color);
+  color: #4070F4;
   font-size: 1.5rem;
   cursor: pointer;
 }
+
 
 /*Active menu*/
 .active::after{

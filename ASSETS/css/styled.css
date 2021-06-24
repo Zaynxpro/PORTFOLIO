@@ -29,9 +29,17 @@
     .footer {
         background-color: #000;
     }
-    /* DEMO-SPECIFIC STYLES */
+    
 .typewriter h1 {
     color: #fff;
     
 }
+
+.nav__toggle{
+    color: black;
+    
+  }
+  .nav__menu{
+      background-color: #000;
+  }
 }
